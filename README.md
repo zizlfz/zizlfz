@@ -13,3 +13,4 @@ open to frontend, full-stack, or React/Vue opportunities.
 
 「 **pubilic notes** 」
 - [how JavaScript handles events](https://n.ziz.web.id/how-js-handles-events/)
+- [React state management](https://n.ziz.web.id/react-state-management/)
