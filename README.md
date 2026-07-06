@@ -7,10 +7,4 @@ i specialize in building reliable, maintainable web applications with **React** 
 - **data & API**: GraphQL, REST, ApexCharts, D3.js
 - **other**: PWA, Docker, Phoenix/Elixir
 
-open to frontend, full-stack, or React/Vue opportunities.
-
----
-
-「 **pubilic notes** 」
-- [how JavaScript handles events](https://n.ziz.web.id/how-js-handles-events/)
-- [React state management](https://n.ziz.web.id/react-state-management/)
+open to frontend or full-stack opportunities.
